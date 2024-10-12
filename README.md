@@ -1,2 +1,2 @@
 # NotifiNoteBE
-NotifiNoteBE backend project using(asp.net web api)
+NotifiNote backend project using(asp.net web api)
